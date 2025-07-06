@@ -34,7 +34,7 @@ A functional Django REST APIs for managing events and attendee registrations —
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/GargAnshu9468/event_management
+git clone https://github.com/GargAnshu9468/event_management.git
 cd event_management
 ```
 
