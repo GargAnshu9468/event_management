@@ -68,17 +68,19 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-### 4️⃣ Apply Migrations
+### 4️⃣ Create & Apply Migrations
 
 - On Windows
 
 ```bash
+python manage.py makemigrations
 python manage.py migrate
 ```
 
 - On macOS/Linux
 
 ```bash
+python3 manage.py makemigrations
 python3 manage.py migrate
 ```
 
