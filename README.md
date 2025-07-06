@@ -68,7 +68,7 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-### 4️⃣ Create & Apply Migrations
+### 4️⃣ Make & Apply Migrations
 
 - On Windows
 
