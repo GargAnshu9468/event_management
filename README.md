@@ -1,6 +1,6 @@
 # 🎉 Event Management APIs
 
-A functional Django REST API for managing events and attendee registrations — built with clean architecture and best practices.
+A functional Django REST APIs for managing events and attendee registrations — built with clean architecture and best practices.
 
 ---
 
