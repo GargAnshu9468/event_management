@@ -121,7 +121,8 @@ pytest
 ## 🔐 Django Admin
 
 - URL: [`/admin/`](http://127.0.0.1:8000/admin/)
-- To create a superuser:
+
+### To create a superuser:
 
 - On Windows
 
