@@ -1,0 +1,55 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Env
+
+.env
+env/
+venv/
+ems_env/
+
+# VSCode & PyCharm
+
+.vscode/
+.idea/
+
+# Byte-compiled / compiled files
+
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Django stuff
+
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+/mediafiles
+
+# Coverage reports
+
+htmlcov/
+.coverage
+.tox/
+
+# Test cache
+
+.pytest_cache/
+
+# Migrations (optional, keep if not committing them)
+
+**/migrations/*.py[cod]
+**/migrations/__pycache__/
+
+# OS files
+
+.DS_Store
+Thumbs.db
