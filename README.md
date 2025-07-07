@@ -174,7 +174,7 @@ event_management/
 ## 🧠 Author
 
 **Anshu Garg**
-Senior Python Developer - July 2025
+Senior Python Developer
 📧 a.kgarg9050@gmail.com
 
 ---
